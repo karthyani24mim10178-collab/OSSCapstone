@@ -1,0 +1,250 @@
+The Fork in the Road: How
+LibreOffice Was Born from a Crisis of Trust
+
+Name: Karthyani Ghenghat Reg.Number:24MIM10178
+Course: Open-Source Software University: VIT Bhopal
+Submission Date: 31st March 2026
+Section A: Set the Stage
+
+LibreOffice’s beginnings can be traced back to a dispute between an organization and its volunteers. OpenOffice.org was a very much liked, free to use office suite that thousands of volunteers worldwide assisted in creating. While the project was free and open to the public, the controls of the project were overly restrictive due to the amount of authority exercised by Sun Microsystems, the organization in charge prior to 2010. The situation became further strained when Oracle purchased Sun in 2010, ultimately leading to the formation of LibreOffice by the original OpenOffice volunteers.
+
+
+Governance Structure Challenges
+
+A primary reason for creating LibreOffice was dissatisfaction with the way that Sun ran the OpenOffice.org project. OpenOffice.org projects were open source; thus, community members had the ability to contribute. However, Sun exercised too much control over OpenOffice.org’s version release, features added, and direction of the product. As a result, volunteers who contributed to OpenOffice.org felt no recognition or validation because they were not part of the decision-making
+process. This lack of recognition left many community members feeling that they were unappreciated and not valued.
+
+The fact that one company had a lot of control meant that the project would be greatly influenced if they changed their priorities. This is exactly what happened when Oracle took over.
+
+
+Copyright Assignment Issue
+
+Another major problem that arose is that developers who wanted to contribute to OpenOffice.org had to agree to let Sun Microsystems have part ownership of their code. This meant that even though they were contributing for free to the project, the company would benefit from their work even to the point of making money
+from it. This did not sit well with many of the contributors. They were contributing for free to the project, and the company would use their work for whatever they wanted to.
+The systems put in place by Sun Microsystems (the company that ran Open Office until its acquisition by Oracle) were effective prior to Oracle's acquisition. This was no longer the case, however, after Oracle took control. In fact, Oracle was primarily known for
+having a strict, profit-driven corporate philosophy as well as controlling how people use its product lines (e.g., Open Office). This was apparent in or through Oracle creating an alternative version of Open Office (called "Oracle Open Office") and not communicating with the Open Office user community. This caused a lot of uncertainty and concern about Open Office among the user community.
+
+
+As a result, the level of trust that existed among members of the Open Office user community diminished. Contributors no longer wanted to contribute their time, and code, to a project in which they had little to no trust. Therefore, lack of trust in Oracle resulted in the formation of Libre Office.
+
+
+Legal and Practical Openness
+
+What we've seen here is a difference between "Legal Openness" and "Practical Openness". Open Office Code is legally "open" because it is publicly available for anyone to access and modify. However, the way the project operated made it very difficult for other contributors to submit changes to the Open Office codebase due to Oracle's control of the project. Many of the people who wanted to submit changes to the Open Office codebase did, however, but were discouraged because of Oracle's influence.
+
+This illustrates that just because a project exists under a "Legally Open" model, it does not mean that it is operating in a truly "Open" manner. When you think of the term "True Openness," you should also consider "governance," "transparency," and "mutual control."
+In conclusion, the main reason for the development of LibreOffice is the problems that existed with the management of OpenOffice.org. The management of the
+project coupled with the copyright problems and the lack of trust after Oracle took over meant that the development of LibreOffice was almost inevitable. This is a lesson that free and open projects require freedom as well as fair management to prosper.
+Section B: Ethics of Corporate Control
+
+The story of LibreOffice brings to mind a question of ethics: is it right for a company to have total control of a free and open project? On one hand, companies provide the money, the equipment, and the developers. On the other hand, free and open projects depend heavily on volunteers. In my opinion, although companies should have some say because of their contribution to the project, having total control is not fair.
+Argument #1: Does Investment justify control?
+
+
+Companies have a lot of control over free and open projects because they have invested in developing the project (buying hardware etc.). It stands to reason they should have a say in how the project gets developed.
+
+
+This line of reasoning is somewhat flawed since free and open-source projects are not built solely by companies; many unpaid volunteers help build free and open- source projects and the success of these projects would not be possible without the time, expertise and energy from these individuals.
+
+
+Therefore, corporate investment does not justify to control free and open
+projects, but it does provide some justification for having a say. A much more ethical and reasonable way to approach free and open-source projects is through an approach of shared power between the company and the community.
+
+
+Argument 2: Free and Open as a Public Good
+
+Another point of view is that the free and open project is like a "good." This means that people are working on it not to benefit themselves individually, but to benefit
+
+all. This means that it is actually a "community project," not a project owned by one company.
+
+
+If a company owns this project, it could be argued that it is like the company "owning" something that it technically does not own. This could be a bad thing because it could be like the company benefiting from the "community" project.
+In the case of OpenOffice.org, it was felt that the project was being used to benefit Oracles' interests without giving the people who actually worked on it equal control. This made people feel like they were being taken advantage of.
+
+
+Copyright Assignment: Ethical or Not?
+
+
+The requirement for the developers to cede some form of ownership of their code to the company is a very contentious issue. From a legal point of view, it helped the company control and protect the code easily.
+
+
+In the case of Sun Microsystems, it was a bit more ethical because the company was seen as trustworthy. The developers felt it would work in the interest of the code.
+
+
+In the case of Oracle, the same policy became a problem. The reputation of Oracle created a fear among developers that it might use it against other companies. This shows that ethics can be relative and dependent on trust.
+
+
+In my opinion, the requirement of assigning copyrights is not completely ethical because it puts the developers in a position. It would be more ethical if the developers were allowed to own their code and only license it.
+
+
+Stewardship vs Ownership
+
+One of the differences in open projects is that of ownership and stewardship. Ownership is about control and authority. On the other hand, stewardship is about responsibility and caring.
+
+In the case of OpenOffice.org, Sun and later Oracle were more like owners than stewards. This is because they were in control. They had authority. This was in contrast to the values that open projects promote.
+If they were to adopt the stewardship model, they would have been transparent. They would have also involved all the parties in the decision-making process. This is what LibreOffice later adopted when they formed The Document Foundation.
+
+
+Counterargument: Need for Leadership
+
+Another thing to consider is that there is an opposing argument. This opposing argument is that there is a need to have central leadership to control and direct, to prevent conflicts and to have development. This is because without central leadership, things may be disorganized and inefficient.
+
+
+This argument has some weight, but this does not mean that there needs to be corporate leadership. Leadership does not have to be corporate; leadership within a community-driven governance structure that is efficient is possible. This is already being done within free and open projects that are successful.
+
+
+In conclusion, corporate involvement within free and open projects is necessary and beneficial, but corporate control within a free or open project is unethical because it may lead to exploitation, mistrust, and ultimately the destruction of the free or open projects ecosystem. The corporations need to be supportive rather than controlling, to make sure that their interests as well as those of the community are taken care of.
+
+
+Section C: The Forking Question
+
+The question of forking OpenOffice.org to create LibreOffice was a moment in the free and open-source world. However, it was not a step in the process. It was a
+fork that split the community and created confusion in the minds of users. It was a question that the community faced: to continue working under the umbrella of Oracle's control or to risk creating a project. To evaluate this question, one must consider both the benefits and the costs.
+
+
+Was Forking the Right Decision?
+Forking was probably the best option that the community had at that time. After Oracle acquired Sun Microsystems, there was a lack of trust between the company
+
+and the open-source community. This was mainly because of the lack of transparency in copyright assignments and the business-oriented approach that Oracle was taking.
+By creating LibreOffice, the community was able to regain control over the project. This led to the development of a system based on transparency and fairness.
+
+
+However, there were also some drawbacks to the fork. It created confusion among the users about which software to use. Many organizations were in a dilemma about which one to use. This slowed down the adoption rate in the term.
+
+
+However, considering all these factors, the decision was a necessity.
+
+
+Oracles Decision: Business vs Ethics
+
+Considering the business side of the issue, Oracles decision to retain control over OpenOffice.org was justified. This was because they wanted to maximize their profits and retain their authority. Allowing an independent foundation to control the project would have reduced their chances.
+
+
+However, considering the other side of the issue, Oracles actions can also be criticized. This is because they failed to interact with the community. This is very important in free and open-source software.
+
+
+The decision to fork OpenOffice was a one. What is good for business is not always what is right to do. In the case of Oracle and OpenOffice, what was good for Oracle in the short term was not good in the long term. The community lost trust in Oracle. They had to make a decision to create LibreOffice.
+
+
+Was the fork an idea?
+
+
+The fork was a huge success in the run. LibreOffice got a lot of support from contributors and organizations. Many Linux systems started using it as their default
+
+office suite. The project was growing with more and more updates. On the other hand, OpenOffice was losing its pace and becoming less active. This is another proof that the decision to fork was a one.
+People may argue that the community should have stayed with OpenOffice and tried to make it better from the inside. Forking split the community. Forking created competition between two almost identical projects. Of splitting the community may have tried to talk to Oracle and make changes from the inside. This would have helped to keep the project.
+
+
+This argument is not entirely convincing. Oracle did not want to work with the community or make any changes. They did not have any trust. Without trust, it is not easy to work together. In this case, forking was not an option, it was a necessity.
+
+
+In conclusion, the decision to fork OpenOffice was a tough one, but it was justified. It had short-term negative consequences. It had positive long-term consequences. The fact that LibreOffice is successful today is a testament to this.
+
+
+LibreOffice is not just any software project. It is a case study on what happens when issues of trust, corporate control, and poor project governance come into play. Such things have happened in many software projects, which means they are not unique problems but common issues in software development.
+
+
+The same situation occurred with another open-source project, MySQL. The founder of this project, Michael Widenius, was concerned about Oracle’s
+intentions. He decided to create a fork of this project, which became MariaDB. This project is open-source, controlled by the community, and does not have any dominance. Today, it is widely used. It has become the default database system for many Linux distributions.
+
+
+Let’s imagine that there is a company, let’s call it Company X. This company mostly contributes to an open-source project. This company controls this project. This company uses this project’s popularity to promote their services. This situation may look similar to the Oracle/OpenOffice case. But there is one significant difference. This company’s behaviour will show whether it can be trusted to
+control an open-source project. If this company is transparent, listens to the community, and allows people to make decisions, then it may be acceptable.
+
+To determine whether a company can be trusted to control an open-source project, we have to analyse several criteria:
+*Transparency: The decisions made should be transparent
+*Community Participation: The contributors should have a say in the decision- making process
+*No Forced Copyright Assignment: The developers should retain their copyrights
+*Balanced Power: No entity should have more power
+*Regular Communication: The company should communicate with the community
+
+
+Thus, a company can serve as a steward, not as an owner, if these conditions are met.
+
+
+If I were asked to advise developers who want to create an open-source project, I would advise them to consider a system that does not allow the problems experienced by OpenOffice to occur. The project should not be owned by a company but a non-profit foundation. The developers should retain their copyrights, and there should be a system of checks and balances.
+
+
+In conclusion, this LibreOffice case has shown that governance and trust are as important as technology for open-source development. It has shown that corporate involvement is not necessarily bad. It needs to be balanced with community
+involvement.
+
+
+Before I knew this case, my definition of "open source" would be that it is a type of software that anyone could use or change. As long as the code is available to anyone, I would have thought that this would be a fair and open process. However, I have since come to realize that "open source" is not only about code, but governance, control, and trust.
+
+
+My definition of "source" has been greatly altered since I have come to know this case. I have come to realize that a source can be open source but still be
+controlled by a single company. This case has shown me that "open source" is not only about a license, but also transparency.
+Another thing that I was surprised by was the copyright assignment. I thought it was unfair that the people who contributed to the project had to sign over their copyright to a company when they were only volunteering their time. I was also
+
+surprised by how easily the trust was broken when Oracle acquired Sun Microsystems. This just goes to show how important trust is in open-source communities.
+
+
+In my opinion, the fork was worth it. While it caused short-term problems, in the end it allowed the LibreOffice project to be created based on the principles of fairness and independence. The fact that LibreOffice is successful now proves that in the end, the fork was a good thing.
+I think that if I had been in the position that the contributors to this book had been in, I would have made that decision. Working within a system that has no trust or control would be frustrating. Forking may be difficult. It would allow an opportunity to make something better and more equitable.
+
+
+
+
+Section D: Lessons and Generalisation
+The LibreOffice case is not an isolated event. It is a manifestation of a pattern that repeats itself in the open-source world. By looking at similar cases, such as the MariaDB fork, one can easily conclude that the problem is not about a specific company; rather, it is about a deeper problem related to the tension between corporate control and community freedom.
+
+
+Corporate Ownership vs. Community Health
+
+The fact that both OpenOffice.org and MySQL have faced similar forks after being acquired by Oracle is a clear indication that there is a pattern. This pattern reveals that when the community loses trust in the company that controls the project, the health of the open-source project is at risk. This is because open-source projects rely on the power of trust to thrive. They rely on voluntary participation. However, when the people who contribute to these projects feel that their contributions are being controlled by a company, they lose the motivation to participate.
+Thus, the main point is that corporate ownership and good community health do not always go hand in hand. The project may be technically open, but if the developers do not feel appreciated, the project can be weakened or even split.
+
+
+Evaluating the “Company X” Scenario
+
+Let’s assume a big company (Company X) contributes most of the code, owns governance, and uses the project as a means of advertising its products. This looks like the Oracle case. However, there is a difference between the two companies.
+
+
+If Company X is open and transparent, and decisions are taken together, then its leaders might be good. However, if it does not take the opinions of developers into account and focuses on its own profits, it becomes similar to the OpenOffice.org case.
+
+
+In order to determine if a corporate steward can be trusted, the following factors are significant:
+-Transparency: Decisions should be transparent.
+-Community Participation: Contributors should have a real say.
+-Fair Ownership: Developers should not be forced to give up ownership.
+-Balanced Power: No single entity should have complete control.
+-Active Engagement: The company should regularly engage with the contributors.
+
+
+Recommended Governance for New Open Source Projects
+
+If I were to recommend a governance structure to open-source developers who are starting out with a new project, it would be one that does not suffer from the
+problems that are evident in the case of OpenOffice.org.
+
+
+The project should be run by an independent non-profit foundation rather than a single company. The code should be owned by the contributors, and a fair licensing method should be adopted instead of copyright assignment. Decisions should be shared and
+transparent by means of voting or elected committees. Corporate control should be limited to prevent any single entity from dominating.
+
+
+Finally, clear communication and documentation should ensure that contributors are aware of how decisions are made and can participate.
+
+
+Conclusion
+
+The LibreOffice case reminds us that with open source software, it is not just code that matters but also people and governance. Successful projects are those in which contributors feel valued and included. Too centralized a process can undermine even successful projects.
+
+
+The key message is simple: to be truly open source, software must be free in both senses.
+
+
+Section E: Reflection
+Before reading this case study, I had assumed that "open source" merely meant that software was free to use and modify. While it was publicly available, I had assumed that this was enough to ensure that it was a "fair" process. However, this case study has taught me otherwise.
+
+
+I see now that "open source" is not merely a matter of access to code but also who "owns" that code. While it can be "open source" in a legalistic sense, it can also feel closed if those who contribute to it are not "heard."
+
+
+I was surprised by several things in this case study. One was that contributors had to assign partial ownership to code they had written. While they were doing so
+voluntarily, it did not seem "fair."
+
+
+The thing that bothered me most was the way in which trust was broken so quickly. While it was not an instantaneous process in which the project was changed in any way, the way in which ownership was transferred caused a great deal of distrust.
+In my opinion, the decision to create LibreOffice was the correct one. Even though it caused problems like confusion and division, it helped the community to create a fair and independent system.
+
+
+If I were a member of the LibreOffice team, I think I would have made the same decision. Working without trust and control would be annoying. Forking the codebase is not an easy process, but it can be an opportunity to create something even better.
